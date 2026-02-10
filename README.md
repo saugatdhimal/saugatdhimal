@@ -4,6 +4,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saugatdhimal&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saugatdhimal&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/saugatdhimal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimalsaugat77@gmail.com) 
 
@@ -12,11 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saugatdhimal&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saugatdhimal&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
