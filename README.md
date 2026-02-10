@@ -2,7 +2,7 @@
 💻 I am currently working on making things work… then making them work better😄.<br>🧩 I am looking to collaborate on interesting ideas with curious minds.<br>🤝 I am looking for help with feedback, ideas, and fresh perspectives.<br>🧠 I am currently learning something new every day—and unlearning a few things along the way.<br>🗨️ Ask me about things worth discussing.<br>🎉 Fun fact: I once tried to debug for 5 hours straight… only to realize it was a typo 😅
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saugatdhimal&limit=10&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=saugatdhimal&limit=8&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/saugatdhimal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhimalsaugat77@gmail.com) 
