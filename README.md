@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saugatdhimal&theme=onedark)](https://github.com/saugatdhimal/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saugatdhimal)](https://github.com/saugatdhimal/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saugatdhimal&icon=0&color=0)](https://visitcount.itsvg.in)
