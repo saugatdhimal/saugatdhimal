@@ -1,6 +1,10 @@
 # 💫 About Me:
 💻 I am currently working on making things work… then making them work better😄.<br>🧩 I am looking to collaborate on interesting ideas with curious minds.<br>🤝 I am looking for help with feedback, ideas, and fresh perspectives.<br>🧠 I am currently learning something new every day—and unlearning a few things along the way.<br>🗨️ Ask me about things worth discussing.<br>🎉 Fun fact: I once tried to debug for 5 hours straight… only to realize it was a typo 😅
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=saugatdhimal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contrib-stats.vercel.app/saugatdhimal/contributed.svg)
 
@@ -17,10 +21,6 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=saugatdhimal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saugatdhimal&icon=0&color=0)](https://visitcount.itsvg.in)
