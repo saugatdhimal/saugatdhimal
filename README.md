@@ -11,7 +11,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=saugatdhimal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=saugatdhimal&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🌐 Socials:
