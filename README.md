@@ -5,10 +5,7 @@
 ![](https://github-contrib-stats.vercel.app/saugatdhimal/contributed.svg)
 
 # 📊 GitHub Stats:
-![](https://github-stats-extended.vercel.app/api?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saugatdhimal&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=saugatdhimal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=saugatdhimal&theme=dark)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
